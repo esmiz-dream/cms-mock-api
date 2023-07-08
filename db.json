@@ -1,0 +1,127 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "esmael",
+      "country": "Ethiopia",
+      "phone": "0925873168",
+      "Address": "addis abab",
+      "email": "esmi@g.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "yoni",
+      "country": "Ethiopia",
+      "phone": "0921050607",
+      "Address": "addis abab",
+      "email": "yo@g.com",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "name": "hani",
+      "country": "Ethiopia",
+      "phone": "0937560452",
+      "Address": "addis abab",
+      "email": "@g.com",
+      "password": "12345"
+    },
+    {
+      "name": "Keegan Alford",
+      "email": "kefyjilule@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "country": "Et magnam dolores co",
+      "address": "Irure velit pariatur",
+      "phone": "+1 (245) 613-5711",
+      "id": 4
+    },
+    {
+      "name": "Eve Daniels",
+      "email": "wyxepifar@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "country": "Id nihil provident",
+      "address": "Inventore reprehende",
+      "phone": "+1 (515) 763-3771",
+      "id": 5
+    },
+    {
+      "name": "Teegan Valenzuela",
+      "email": "lavelicaku@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "country": "Sit excepturi ut qu",
+      "address": "Possimus expedita i",
+      "phone": 76,
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "dfdf@g.c",
+      "password": "44555",
+      "country": "",
+      "address": "",
+      "phone": "",
+      "id": 7
+    },
+    {
+      "name": "Athena Macias",
+      "email": "hobit@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "country": "In animi consectetu",
+      "address": "Hic fuga Id sint ex",
+      "phone": 4,
+      "id": 8
+    },
+    {
+      "name": "Driscoll Peterson",
+      "email": "dyzycewig@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "country": "Eu commodi recusanda",
+      "address": "Maxime et sed labore",
+      "phone": 50,
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "burger",
+      "price": "550"
+    },
+    {
+      "id": 2,
+      "name": "black forst",
+      "price": "100"
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "price": "430"
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "orderCode": "123456",
+      "productId": 3
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "orderCode": "854545",
+      "productId": 2
+    },
+    {
+      "id": 3,
+      "customerId": 3,
+      "orderCode": "123456",
+      "productId": 1
+    },
+    {
+      "customerId": 3,
+      "productId": 2,
+      "id": 4
+    }
+  ]
+}
