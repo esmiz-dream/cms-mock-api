@@ -178,35 +178,7 @@
       {
       "id":5,
       "name":"addproduct"
-    },
-     {
-      "id":6,
-      "name":"editproduct"
-    },
-     {
-      "id":7,
-      "name":"deleteproduct"
-    },
-     {
-      "id":8,
-      "name":"viewproduct"
-    },
-      {
-      "id":9,
-      "name":"addorder"
-    },
-     {
-      "id":10,
-      "name":"editorder"
-    },
-     {
-      "id":11,
-      "name":"deleteorder"
-    },
-     {
-      "id":12,
-      "name":"vieworder"
-    }
+    }  
   ],
   "RolPermition":[
     {
