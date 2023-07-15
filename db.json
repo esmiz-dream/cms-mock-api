@@ -147,15 +147,15 @@
 "Role":[
   {
     "id":1,
-    "name":"Admin",
+    "name":"Admin"
   },
    {
     "id":2,
-    "name":"seler",
+    "name":"seler"
   },
    {
     "id":3,
-    "name":"buyer",
+    "name":"buyer"
   }
   ],
   "Permition":[
