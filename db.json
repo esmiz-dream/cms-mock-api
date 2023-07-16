@@ -144,7 +144,7 @@
       "role":"buyer"
     }
   ],
-"Role":[
+"role":[
   {
     "id":1,
     "name":"Admin"
@@ -158,7 +158,7 @@
     "name":"buyer"
   }
   ],
-  "Permition":[
+  "permition":[
     {
       "id":1,
       "name":"addcustomer"
@@ -180,23 +180,23 @@
       "name":"addproduct"
     }  
   ],
-  "RolPermition":[
+  "rolpermition":[
     {
       "id":1,
-      "RoleId":1,
-      "PermitionId":2
+      "roleId":1,
+      "permitionId":2
     },
      {
       "id":2,
-      "RoleId":2,
-      "PermitionId":3
+      "roleId":2,
+      "permitionId":3
     }
   ],
-  "UserRole":[
+  "userrole":[
     {
       "id":1,
-      "UserId":1,
-      "RoleId":2
+      "userId":1,
+      "roleId":2
     }
   ]
 }
