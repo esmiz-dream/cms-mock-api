@@ -128,19 +128,19 @@
     {
       "id":1,
       "username":"admin",
-      "password":"asd",
+      "password":"admin",
       "role":"admin"
     },
     {
       "id":2,
       "username":"user",
-      "password":"123",
+      "password":"user",
       "role":"vendor"
     },
     {
       "id":3,
-      "username":"cus",
-      "password":"123",
+      "username":"customer",
+      "password":"customer",
       "role":"buyer"
     }
   ],
